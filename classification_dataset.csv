@@ -1,0 +1,171 @@
+User Text,Intent
+Show me the appointment status.,Show Status
+Namaste,Greet
+I want to change the time of my appointment.,Reschedule
+Please move my reservation to a later time.,Reschedule
+Could you please show me the status of my appointment at a different branch?,Show Status
+I'd like to book a meeting for the day after tomorrow.,Schedule
+I need to change the time of my appointment and would like to see the updated status.,Show Status
+Is it possible to change my appointment to next week?,Reschedule
+I need to cancel my appointment for the morning.,Cancel
+Let's plan a meeting for next Wednesday.,Schedule
+I'd like to know the status of my appointment for the morning slot.,Show Status
+I have an emergency and need to confirm the status of my appointment.,Show Status
+I can't make it on the scheduled date. Please cancel and reschedule.,Cancel
+I would like to schedule a meeting for tomorrow.,Schedule
+Hii,Greet
+Can we reschedule my conference call to Friday?,Reschedule
+Cancel my conference call for a time that suits everyone.,Cancel
+Salaam,Greet
+I want to cancel my conference call for Wednesday afternoon.,Cancel
+I need to cancel my dentist appointment for next Monday.,Cancel
+I can't make it on the scheduled date. Can we change it?,Reschedule
+I'm flexible with the time. Please choose a suitable day.,Schedule
+I'm available today. Can we meet?,Schedule
+I have an emergency and need to cancel my appointment.,Cancel
+I'm only available on Thursdays. Can we schedule it then?,Schedule
+I need to cancel the reservation for later in the evening.,Cancel
+I can't make it on the scheduled date. Can we find another time?,Reschedule
+I need to change my appointment to the morning.,Reschedule
+Can you show me the status of my upcoming appointment for tomorrow?,Show Status
+I have an upset stomach.,Not well
+I'm queasy.,Not well
+Show me the status of my conference call and make sure it suits everyone's availability.,Show Status
+I'm dizzy.,Not well
+I'm feeling lightheaded.,Not well
+I'm feeling off.,Not well
+Please change my reservation to a time slot that works for me.,Reschedule
+I'd like to check the status of my conference call for Wednesday afternoon.,Show Status
+Ciao,Greet
+I need to cancel my reservation for a later date.,Cancel
+I have a scheduling conflict. Please cancel my appointment for Thursday.,Cancel
+I need to postpone my appointment to the end of the month or cancel it.,Cancel
+I'm feeling really bad.,Not well
+Can you move my appointment to a different day and time?,Reschedule
+Can we reschedule my dental appointment for next Monday?,Reschedule
+Hiya,Greet
+Can we reschedule my conference call to the same time next week?,Reschedule
+I feel sick.,Not well
+I'm feeling awful.,Not well
+Cancel my appointment at a different branch.,Cancel
+Please provide the status of my reservation for tomorrow's meeting.,Show Status
+Can we reschedule my conference call to a time that suits everyone?,Reschedule
+Good Morning,Greet
+Can we schedule an appointment for today?,Schedule
+Servus,Greet
+Please change my reservation to a later time in the day.,Reschedule
+Please move my meeting to a later time in the afternoon.,Reschedule
+Please cancel my appointment for a different day and time.,Cancel
+I prefer Fridays for appointments. Is that possible?,Schedule
+I have a cough.,Not well
+I need to schedule an appointment for Thursday.,Schedule
+I have a headache.,Not well
+My current appointment conflicts with another event. Please cancel it.,Cancel
+I'm not in the mood.,Not well
+Hello,Greet
+I want to move my meeting to a different day of the week.,Reschedule
+Is it possible to arrange an appointment for Wednesday?,Schedule
+I have to cancel my appointment scheduled for 3 PM.,Cancel
+Xin chào,Greet
+I think I might be coming down with something.,Not well
+Can you show me the status of my appointment at a different location?,Show Status
+I need to change the time of my reservation. Please show me the updated status.,Show Status
+I want to check the status of my appointment scheduled for 3 PM.,Show Status
+I won't be able to make it to the appointment on Friday. Please cancel it.,Cancel
+Hey there,Greet
+Cancel my reservation for tomorrow's meeting.,Cancel
+Can we move my appointment to a different day?,Reschedule
+I'm looking for an appointment on any weekday this week.,Schedule
+Is it possible to change my appointment to a different location?,Reschedule
+I need to move my reservation to a later time slot.,Reschedule
+Please cancel my reservation as it doesn't work for me anymore.,Cancel
+I'm not feeling myself.,Not well
+I can't make it on the scheduled date. Can you show me the status and suggest another time?,Show Status
+I'd like to meet either today or tomorrow. Can you arrange it?,Schedule
+I have some time on Monday. Can we meet then?,Schedule
+I have a fever.,Not well
+I'm feeling weak.,Not well
+I'm vomiting.,Not well
+Howdy,Greet
+Merhaba,Greet
+Is it possible to postpone my appointment to the end of the month? Please check the status as well.,Show Status
+Cancel my meeting for tomorrow.,Cancel
+I'm feeling miserable.,Not well
+I need to change my meeting date.,Reschedule
+Cancel my appointment for the 25th of this month.,Cancel
+Can we set up a meeting for Wednesday afternoon?,Schedule
+I need to move my meeting to a different date.,Reschedule
+I'm feeling nauseous.,Not well
+I'm feeling unwell.,Not well
+I'm feeling feverish.,Not well
+Is it possible to postpone my appointment to the end of the month?,Reschedule
+Hi,Greet
+I'm not up to doing anything.,Not well
+Let's plan a meeting for Friday.,Schedule
+Ohayou gozaimasu,Greet
+I have body aches.,Not well
+I want to reschedule my conference call to Wednesday afternoon.,Reschedule
+Can we reschedule my appointment for tomorrow?,Reschedule
+I want to postpone my reservation to a later date.,Reschedule
+I'm shivering.,Not well
+I can't make it on the scheduled date. Please cancel it and find another time.,Cancel
+Zdravstvuyte,Greet
+I'm feeling dreadful.,Not well
+Is there any update on the status of my appointment? I can't make it on the scheduled date.,Show Status
+Can we move my appointment to a different branch?,Reschedule
+I'm free tomorrow afternoon. Can we schedule an appointment?,Schedule
+I'm not up to par.,Not well
+"Unfortunately, I need to cancel my reservation for the morning slot.",Cancel
+I'm feeling terrible.,Not well
+I want to move my reservation to the morning slot.,Reschedule
+I'm tired and achy.,Not well
+I'm not at my best.,Not well
+I'm in pain.,Not well
+Hola,Greet
+Can we reschedule my appointment for the 25th of this month?,Reschedule
+I need to change my appointment time to 3 PM.,Reschedule
+I can't make it to the appointment at a different location. Please cancel it.,Cancel
+I need to cancel my meeting on Tuesday morning.,Cancel
+I'm under the weather.,Not well
+I'm not feeling well today.,Not well
+Show me the status of my reservation and confirm if it still works for me.,Show Status
+Please cancel my meeting for a different day of the week.,Cancel
+Konnichiwa,Greet
+I have an emergency and need to reschedule my appointment.,Reschedule
+Could you please book an appointment for Monday?,Schedule
+What's the status of my reservation?,Show Status
+Please show me the status of my meeting for a different day of the week.,Show Status
+I don't feel good.,Not well
+I have a sore throat.,Not well
+I need to know the status of my meeting on Tuesday morning.,Show Status
+Grüß Gott,Greet
+I can't make it on the scheduled date. Can we reschedule it for later in the week?,Reschedule
+Heyy,Greet
+Cancel my conference call for the same time next week.,Cancel
+Selamat pagi,Greet
+Can you provide the status of my appointment for a different day and time?,Show Status
+I'm interested in setting up a meeting on Tuesday.,Schedule
+Bonjour,Greet
+Mabuhay,Greet
+I have a scheduling conflict. Can you update me on the status of my appointment for Thursday?,Show Status
+I'm curious about the status of my reservation for a later date.,Show Status
+I need to change the time of my reservation to later in the evening.,Reschedule
+Can you show me the status of my appointment for the 25th of this month?,Show Status
+Please check the status of my meeting as it conflicts with another event.,Show Status
+I'm feeling awful.,Not well
+I'm running a temperature.,Not well
+What's the status of my dental appointment on Friday?,Show Status
+I have a scheduling conflict. Can we move my appointment to Thursday?,Reschedule
+Can you find time for an appointment next week?,Schedule
+I have chills.,Not well
+I need to change my meeting to Tuesday morning.,Reschedule
+I'm interested in scheduling an appointment for Tuesday morning.,Schedule
+I need to cancel my appointment on Friday.,Cancel
+Show me the status of my conference call for the same time next week.,Show Status
+I'm exhausted.,Not well
+Moin moin,Greet
+Good Evening,Greet
+I'm feeling down.,Not well
+I'm not in great shape.,Not well
+My current appointment conflicts with another event. Can we reschedule?,Reschedule
+I have a conflict on the appointment date. Can we change it to the 15th?,Reschedule
